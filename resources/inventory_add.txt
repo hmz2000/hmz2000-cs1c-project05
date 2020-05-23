@@ -1,0 +1,6 @@
+add milk
+add apples
+add bread
+add eggs
+add fish
+add fish

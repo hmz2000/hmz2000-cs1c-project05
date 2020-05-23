@@ -1,0 +1,14 @@
+add apples
+add milk
+add bread
+add bread
+add bread
+add turnips
+add potatoes
+buy apples
+buy bread
+buy turnips
+buy bread
+buy bread
+buy milk
+buy potatoes
