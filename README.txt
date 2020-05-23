@@ -18,7 +18,9 @@ src/lazyTrees/LazySearchTree.java
     - Includes class printObject which prints the object of interest in a string
 
 src/lazyTrees/SuperMarket.java
-    -
+    - contains main()
+    - Acts like a super market to that allows items to be picked and checked out
+
 resources/inventory_log.txt
     - Input file that tests insertion and deletion
 
